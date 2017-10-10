@@ -1,8 +1,7 @@
 import { observable } from 'mobx'
 
 const store = observable({
-  entries: [
-  ]
+  entries: []
 })
 
 export default store
